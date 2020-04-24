@@ -1,0 +1,5 @@
+[user]
+	email = julia.terhart@stat.uni-muenchen.de
+	name = Julia Terhart
+[core]
+	editor = subl -n -w
